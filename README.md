@@ -46,8 +46,7 @@ Zulo is an e-commerce website built with PHP, HTML, CSS, and JavaScript. The web
 
 ### Order History Page
 
-![Order History Page]
-(.assets/img/screenshots/order_history.phg)
+![Order History Page](./assets/img/screenshots/order_history.png)
 
 ### Edit Profile Page
 
